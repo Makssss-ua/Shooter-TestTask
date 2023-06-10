@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 438d963b7b0daba48819513fb1f9479c, type: 3}
+  m_Name: M1911
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f153cf761f2e55f45a6a1910315bbf83, type: 3}
+  playerGun: {fileID: 2883297590617179309, guid: 55a684ba09168be42ac733be2af8efc8, type: 3}
+  gunType: 1
+  bulletCount: 12
