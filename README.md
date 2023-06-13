@@ -1,5 +1,7 @@
 # Shooter-TestTask
 
+https://makssss.itch.io/shooter
+
 Character Controll:
 WASD - move
 Space - Jump
